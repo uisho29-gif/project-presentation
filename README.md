@@ -1,8 +1,8 @@
-# Lumina AI – Project Presentation
+# neurolink  AI – Project Presentation
 
 ## Project Overview
 
-**Lumina AI** is a futuristic AI-powered chatbot web application designed with a modern glassmorphism interface and smooth floating animations. The project delivers real-time conversational AI responses through the OpenRouter API while maintaining a clean and immersive user experience.
+**neurolink AI** is a futuristic AI-powered chatbot web application designed with a modern glassmorphism interface and smooth floating animations. The project delivers real-time conversational AI responses through the OpenRouter API while maintaining a clean and immersive user experience.
 
 The application combines modern frontend design principles with conversational artificial intelligence to create an elegant and interactive chat platform.
 
@@ -103,7 +103,7 @@ Rendered in Chat Interface
 
 # Purpose of the Project
 
-The goal of Lumina AI is to:
+The goal of Neurolink AI is to:
 
 * Demonstrate modern frontend development skills
 * Explore conversational artificial intelligence
@@ -195,14 +195,13 @@ https://github.com/Uisho29-gif/lumina-ai
 # Live Demo
 
 ```text
-https://your-live-demo-link.com
-```
+https:nuerolink.netlify.app
 
 ---
 
 # Conclusion
 
-Lumina AI represents a blend of modern frontend engineering and conversational artificial intelligence. The project showcases how elegant design, responsive interaction, and AI integration can combine to create a futuristic digital experience.
+neurolink AI represents a blend of modern frontend engineering and conversational artificial intelligence. The project showcases how elegant design, responsive interaction, and AI integration can combine to create a futuristic digital experience.
 
 The project also serves as a strong foundation for future expansion into more advanced AI-powered platforms.
 
